@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E8AB3F425585C85006F3F7C /* ActivityRow..swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E8AB3F325585C85006F3F7C /* ActivityRow..swift */; };
 		3EE16743254F03ED00C2F8CF /* StactivityApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE16742254F03ED00C2F8CF /* StactivityApp.swift */; };
 		3EE16745254F03ED00C2F8CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE16744254F03ED00C2F8CF /* ContentView.swift */; };
 		3EE16747254F03F000C2F8CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EE16746254F03F000C2F8CF /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E8AB3F325585C85006F3F7C /* ActivityRow..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityRow..swift; sourceTree = "<group>"; };
 		3EE1673F254F03ED00C2F8CF /* Stactivity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stactivity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EE16742254F03ED00C2F8CF /* StactivityApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StactivityApp.swift; sourceTree = "<group>"; };
 		3EE16744254F03ED00C2F8CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				3EE16742254F03ED00C2F8CF /* StactivityApp.swift */,
 				3EE16744254F03ED00C2F8CF /* ContentView.swift */,
+				3E8AB3F325585C85006F3F7C /* ActivityRow..swift */,
 				3EE16746254F03F000C2F8CF /* Assets.xcassets */,
 				3EE1674B254F03F000C2F8CF /* Info.plist */,
 				3EE16748254F03F000C2F8CF /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EE16745254F03ED00C2F8CF /* ContentView.swift in Sources */,
+				3E8AB3F425585C85006F3F7C /* ActivityRow..swift in Sources */,
 				3EE16743254F03ED00C2F8CF /* StactivityApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

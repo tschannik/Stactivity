@@ -11,7 +11,10 @@ import SwiftUI
 struct StactivityApp: App {
     var body: some Scene {
         WindowGroup {
+            Color.red
+                .edgesIgnoringSafeArea(.all)
             ContentView()
+                .background(Color.black)
         }
     }
 }
