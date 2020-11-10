@@ -19,7 +19,7 @@ struct ContentView: View {
                 ActivityRow()
                 .listRowBackground(Color.black)
             }
-            .navigationTitle("Activity")
+            .navigationTitle("Stactivity")
             .navigationBarItems(trailing:
                 Button(
                     action: {print("Edit button was tapped")}
